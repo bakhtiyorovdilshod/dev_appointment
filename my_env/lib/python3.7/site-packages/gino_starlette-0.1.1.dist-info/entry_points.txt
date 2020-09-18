@@ -1,0 +1,3 @@
+[gino.extensions]
+starlette=gino_starlette
+

@@ -1,0 +1,11 @@
+gino[starlette]
+fastapi 
+uvicorn 
+gunicorn
+alembic 
+psycopg2
+pytest 
+requests
+importlib_metadata
+wheel
+importlib-metadata
